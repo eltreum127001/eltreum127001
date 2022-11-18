@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eltreum127001
 - 👀 I’m a netowrk engineer.
-- 🌱 I’m currently learning Python network automation and writing my own tools and Netowrk CMDB website. 
+- 🌱 I’m currently learning Python network automation and writing my own tools and Network CMDB platform. 
 - 💞️ I’m looking to collaborate on things in the future related to automation and configuration template generation. 
 - 📫 How to reach me ... TBD
 
