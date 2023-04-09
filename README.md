@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eltreum127001
-- 👀 I’m a netowrk engineer.
+- 👀 I’m a network engineer.
 - 🌱 I’m currently learning Python network automation and writing my own tools and Network CMDB platform. 
-- 💞️ I’m looking to collaborate on things in the future related to automation and configuration template generation. 
+- 💞️ I’m looking to collaborate on things in the future related to automation and configuration template generation or API driven netowrking aka SDN. 
 - 📫 How to reach me ... TBD
 
 <!---
